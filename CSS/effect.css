@@ -1,0 +1,17 @@
+body {
+  background-color: #0b0f1a;
+  text-align: center;
+  margin-top: 100px;
+}
+
+h1 {
+  font-size: 64px;
+  color: white;
+  font-weight: bold;
+  letter-spacing: 2px;
+
+  text-shadow:
+    0 2px 0 black,      /* shadow hitam nempel di bawah */
+    0 0 8px #00bfff,   /* glow biru */
+    0 0 16px #0080ff;  /* glow biru luar */
+}
